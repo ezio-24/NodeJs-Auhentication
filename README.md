@@ -26,11 +26,11 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/SheshmaniPatel/authantication`
+`git clone https://github.com/ezio-24/NodeJs-Auhentication.git`
 
 ##### Into the project directory
 
-`cd nodejs-auth`
+`cd NodeJs-Auhentication`
 
 ##### Installing NPM dependencies
 
